@@ -1,2 +1,2 @@
 # Generative-AI-class
-GenAI課程
+Something about GenAI class
